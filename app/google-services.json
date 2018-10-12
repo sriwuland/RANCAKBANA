@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163506146603",
+    "firebase_url": "https://tubeseai-oke.firebaseio.com",
+    "project_id": "tubeseai-oke",
+    "storage_bucket": "tubeseai-oke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163506146603:android:69e44a46f5c9fba4",
+        "android_client_info": {
+          "package_name": "com.example.asus.tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163506146603-r7vnevchffb5h7ub3k03o25l9montssv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.tubes",
+            "certificate_hash": "7ac3b25901487b6b2f3cb651db707f64fe751aff"
+          }
+        },
+        {
+          "client_id": "163506146603-1u6an39lqil3jpm4b57hksnm24gu48r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_wub40p_Zup3yVpsBKJ46Z-0nmqV7q4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163506146603-1u6an39lqil3jpm4b57hksnm24gu48r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

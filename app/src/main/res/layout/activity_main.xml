@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgsign"
+    tools:context="com.example.asus.tubes.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:fontFamily="cursive"
+            android:gravity="center"
+            android:text="Rancak Bana"
+            android:textAlignment="center"
+            android:textColor="#a00037"
+            android:textSize="45dp"
+            android:textStyle="bold|italic"
+            android:typeface="sans" />
+
+
+
+
+    </LinearLayout>
+    </LinearLayout>
+
